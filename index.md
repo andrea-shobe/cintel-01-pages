@@ -10,7 +10,7 @@ Here's a clickable link: [My favorite AI assistant](https://chatgpt.com/)
 
 A picture of my Shiny map when looking at examples
 
-![shinyMap](https://github.com/user-attachments/assets/997f1fd0-e1f4-49fc-a668-a1ba510598c3)
+!(https://github.com/user-attachments/assets/997f1fd0-e1f4-49fc-a668-a1ba510598c3)
 
 ## How to succeed
 
