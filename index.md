@@ -6,9 +6,9 @@ My first website using Markdown and GitHub Pages.
 
 Here's a clickable link: [My favorite AI assistant](https://chatgpt.com/)
 
-## Images
+## MyShinyMap
 
-Images look like links except with an exclamation directly in front
+A picture of my Shiny map when looking at examples
 
 ![My Shiny Image](https://github.com/andrea-shobe/cintel-01-pages/blob/main/shinyMap.png)
 
