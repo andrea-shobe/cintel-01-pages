@@ -1,8 +1,8 @@
-# My Website Title 
+# Andrea Shobe's GitHub Page 
 
 My first website using Markdown and GitHub Pages.
 
-## Links (Two hashes is a second level heading)
+## A Link to my favorite AI Assistant
 
 Here's a clickable link: [My favorite AI assistant](https://chatgpt.com/)
 
